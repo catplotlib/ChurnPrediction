@@ -2,7 +2,7 @@
 Welcome to the Churn Prediction repository. This project focuses on developing a machine learning model to predict customer churn, a critical business metric that impacts customer retention and revenue.
 
 # Project Overview
-This project applies machine learning techniques to predict customer churn in a telecom dataset. Customer churn, also known as customer attrition, refers to when a customer stops their subscription or relationship with a company. Identifying customers at risk of churning gives businesses an opportunity to develop strategies for retaining them, enhancing customer satisfaction, and improving overall profitability.
+This project applies machine learning techniques to predict customer churn in a ecom dataset. Customer churn, also known as customer attrition, refers to when a customer stops their subscription or relationship with a company. Identifying customers at risk of churning gives businesses an opportunity to develop strategies for retaining them, enhancing customer satisfaction, and improving overall profitability.
 
 # Getting Started
 ## Prerequisites
