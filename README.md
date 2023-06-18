@@ -8,6 +8,10 @@ This project applies machine learning techniques to predict customer churn in a 
 ## Prerequisites
 - Python 3.7 or later
 - Dependencies from requirements.txt
+
+## Dataset
+If you’re interested, you can grab the dataset for yourself right over here: https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction
+
 ## Installation
 Clone this repository:
 ```
